@@ -1,0 +1,58 @@
+﻿Domain,Component,Brain Region,X,Y,Z,k,Iq
+Cerebellum,11a,left cerebellar cortex,14,30,-46,128,0.9846
+Cerebellum,11b,right cerebellar cortex,-15,32,-44,55,0.9846
+Cognitive Control,22,left superior frontal gyrus,32,-61,7,60,0.9812
+Cognitive Control,26,left middle orbital gyrus,48,-47,-8,230,0.9783
+Cognitive Control,35,right middle orbital gyrus,-41,-53,-10,219,0.9731
+Cognitive Control,36,left precuneus,0,64,39,261,0.9735
+Cognitive Control,37,right precuneus,-7,80,53,76,0.9717
+Cognitive Control,40,right angular gyrus,-49,72,35,23,0.9511
+Cognitive Control,42,left angular gyrus,54,72,31,38,0.8709
+Default Mode,3,medial prefrontal cortex,2,-47,-18,242,0.9787
+Default Mode,14a,left lingual gyrus,12,55,-2,108,0.9846
+Default Mode,14b,right lingual gyrus,-11,46,-2,57,0.9846
+Default Mode,15,anterior prefrontal cortex,2,-59,-16,264,0.9782
+Default Mode,18,cingulate,1,-31,11,271,0.9842
+Default Mode,23a,left precuneus,12,74,31,94,0.9796
+Default Mode,23b,right precuneus,-13,68,31,67,0.9796
+Default Mode,27,superior prefrontal cortex,1,-53,-1,108,0.9798
+Default Mode,34,left calcarine gyrus,12,62,15,27,0.9804
+Default Mode,38,superior medial frontal gyrus,2,-55,21,67,0.9526
+Default Mode,41,left precuneus,1,64,29,11,0.9491
+Language/Audition,1,left inferior frontal gyrus,52,-21,-6,28,0.987
+Language/Audition,12,left temporal gyrus/insula,34,-11,-29,274,0.9809
+Language/Audition,28a,right superior temporal gyrus,-43,-3,-14,272,0.9796
+Language/Audition,28b,left superior temporal gyrus,42,-9,-22,34,0.9796
+Language/Audition,29a,bilateral parainsular cortex,-37,-9,-24,265,0.9804
+Language/Audition,29b,bilateral parainsular cortex,-30,-7,-22,13,0.9804
+Language/Audition,30,parainsular cortex,44,-5,-20,291,0.9872
+Language/Audition,31a,left superior temporal gyrus,56,22,7,33,0.9804
+Language/Audition,31b,left superior temporal gyrus,-57,14,5,11,0.9804
+Language/Audition,32,right temporal pole,-29,-11,-28,252,0.9852
+Language/Audition,39,left superior temporal gyrus,58,-9,-2,21,0.9533
+Sensorimotor,2a,left postcentral gyrus,64,6,19,302,0.992
+Sensorimotor,2b,right postcentral gyrus,-63,4,17,283,0.992
+Sensorimotor,6a,right precentral gyrus,-39,20,51,144,0.9817
+Sensorimotor,6b,right precentral gyrus,-53,24,55,17,0.9817
+Sensorimotor,8a,left precentral gyrus,42,24,53,161,0.987
+Sensorimotor,8b,left precentral gyrus,56,26,53,56,0.987
+Sensorimotor,13,primary motor cortex,1,32,61,158,0.9873
+Subcortical,4a,caudate,-25,-3,-10,67,0.985
+Subcortical,4b,caudate,26,-9,-4,21,0.985
+Subcortical,5,thalamus,1,22,11,25,0.984
+Subcortical,17a,left hippocampus,20,24,-16,45,0.9774
+Subcortical,17b,right hippocampus,-19,23,-16,35,0.9774
+Visual,7a,right occipital pole,-25,98,-10,193,0.9866
+Visual,7b,left occipital pole,26,100,-10,73,0.9866
+Visual,9,cuneus,-2,96,3,269,0.9859
+Visual,10a,right calcarine gyrus,-9,84,8,63,0.9778
+Visual,10b,left calcarine gyrus,10,84,7,52,0.9778
+Visual,16,left lingual gyrus,4,74,-4,74,0.981
+Visual,19a,superior cuneus,-2,82,33,58,0.974
+Visual,19b,superior cuneus,-2,98,9,27,0.974
+Visual,20,right middle temporal gyrus,-51,72,-1,13,0.9773
+Visual,21,inferior occipital pole,-15,92,-20,190,0.979
+Visual,24,bilateral calcarine gyrus,-9,96,-10,177,0.9771
+Visual,25,left superior occipital gyrus,18,102,9,14,0.9782
+Visual,33a,left calcarine gyrus,26,92,-20,101,0.983
+Visual,33b,right calcarine gyrus,-9,100,-2,43,0.983

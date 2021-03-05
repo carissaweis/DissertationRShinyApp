@@ -1,0 +1,10 @@
+name: cw_dissertation_shinyapp
+title:
+username:
+account: carissa-weis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3534357
+bundleId: 4172880
+url: https://carissa-weis.shinyapps.io/cw_dissertation_shinyapp/
+when: 1612301665.7544
