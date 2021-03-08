@@ -747,7 +747,8 @@ ui <- fluidPage(
                                       you can visit their website", a(href="https://pgc-ptsd.com/", "here.")),
                                     br(),
                                     p("For questions about the current study or for more information on my ongoing work 
-                                      and recent publications", a(href="https://www.linkedin.com/in/carissa-weis/", "add me on LinkedIn!"))
+                                      and recent publications", a(href="https://www.linkedin.com/in/carissa-weis/", "add me on LinkedIn!")),
+                                    p("For the source code of this RShiny app see my github repository", a(href="https://github.com/carissaweis/DissertationRShinyApp", "here."))
                                   )
                                 ),
                                 fluidRow(
